@@ -40,20 +40,13 @@ Para verificar a instalação:
 dotnet --version
 ```
 
-### 2. Clone o repositório (caso ainda não tenha)
-
-```bash
-git clone https://github.com/seu-usuario/crud-clientes-dotnet.git
-cd crud-clientes-dotnet
-```
-
-### 3. Restaurar as dependências do projeto
+### 2. Restaurar as dependências do projeto
 
 ```bash
 dotnet restore
 ```
 
-### 4. Rodar a aplicação
+### 3. Rodar a aplicação
 
 ```bash
 dotnet run
@@ -63,7 +56,7 @@ A aplicação estará disponível por padrão em:
 
 - `http://localhost:5148`
 
-### 5. Acessar o Swagger para testar a API
+### 4. Acessar o Swagger para testar a API
 
 Abra no navegador:
 
